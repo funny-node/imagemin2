@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "imagemin": "^7.0.0",
+    "imagemin-jpegtran": "^6.0.0",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-pngquant": "^8.0.0",
+    "pngquant": "^3.0.0",
+    "walk-sync": "^2.0.2"
+  }
+}
